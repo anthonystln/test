@@ -10,7 +10,7 @@ Nous demandons aux contributeurs de suivre quelques directives.
 * Veuillez "Fork" le repository Github.
 * Veuillez créer une branche à partir de laquelle vous voulez baser votre travail.
     * 
-* *Important* Veuillez ne pas travailler directement sur la branche *main*
+* **Important** Veuillez ne pas travailler directement sur la branche *main*
 
 ## Contributions
 - Fork le projet
