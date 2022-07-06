@@ -6,11 +6,11 @@ Nous demandons aux contributeurs de suivre quelques directives.
 ## Les prérequis
 - Assurez vous d'avoir un compte Github
 
-## Pour commencer
+## Faire des changements
 * Veuillez "Fork" le repository Github.
 * Veuillez créer une branche à partir de laquelle vous voulez baser votre travail.
-    * Hello
-    * Good Bye
+    * 
+* *Important* Veuillez ne pas travailler directement sur la branche *main*
 
 ## Contributions
 - Fork le projet
