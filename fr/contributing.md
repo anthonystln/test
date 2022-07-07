@@ -41,9 +41,3 @@ Il est très important de tester votre sur votre machine en local avant de commi
 * Nos équipes étudiront votre Pull Request. 
 * Après vous avoir communiquez nos retours, "feedback", nous attendrons une réponse pendant deux semaines.
     * Au dela de 2 semaines sans réponse de votre part, nos équipes fermeront la Pull Request.
-
-## Sources
-- https://gist.github.com/PurpleBooth/b24679402957c63ec426
-- https://github.com/puppetlabs/puppet/blob/main/CONTRIBUTING.md
-- https://github.blog/2012-09-17-contributing-guidelines/
-- https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
