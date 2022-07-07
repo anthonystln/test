@@ -3,6 +3,18 @@ Nous demandons aux contributeurs de suivre quelques directives.
 
 ## Présentation du projet
 
+## Contributions
+- Fork le projet
+- Créer une branche et travaillez dessus.
+- Clonez le projet que vous avez Fork sur votre machine.
+- Faites un test afin de voir si le projet fonctionne en local sur votre machine
+- Faites vos changements / suggestions
+- Tester vos changements
+- Push votre commit vers votre branche
+- Faites un Pull Request / Merge Request
+- Veuillez décrire vos tests
+- Veuillez écrire une bonne description
+
 ## Les prérequis
 - Assurez vous d'avoir un compte Github
 
@@ -16,6 +28,9 @@ Nous demandons aux contributeurs de suivre quelques directives.
 ## Notre convention de code
 **Nous optimisons la lisibilité**
 *Veuillez lire notre code et vous aurez le coup de main*
+* Nous indentons le code avec 2 espaces
+* Nous mettons toujours des espaces après les éléments de la liste et les paramètres des méthodes, autour des opérateurs et autour des flèches.
+
 
 ## Tester votre code
 Il est très important de tester votre sur votre machine en local avant de commit vos changements.
@@ -27,19 +42,8 @@ Il est très important de tester votre sur votre machine en local avant de commi
 * Après vous avoir communiquez nos retours, "feedback", nous attendrons une réponse pendant deux semaines.
     * Au dela de 2 semaines sans réponse de votre part, nos équipes fermeront la Pull Request.
 
-## Contributions
-- Fork le projet
-- Créer une branche et travaillez dessus.
-- Clonez le projet que vous avez Fork sur votre machine.
-- Faites un test afin de voir si le projet fonctionne en local sur votre machine
-- Faites vos changements / suggestions
-- Tester vos changements
-- Push votre commit vers votre branche
-- Faites un Pull Request / Merge Request
-- Veuillez décrire vos tests
-- Veuillez écrire une bonne description
-
 ## Sources
 - https://gist.github.com/PurpleBooth/b24679402957c63ec426
 - https://github.com/puppetlabs/puppet/blob/main/CONTRIBUTING.md
 - https://github.blog/2012-09-17-contributing-guidelines/
+- https://github.com/opengovernment/opengovernment/blob/master/CONTRIBUTING.md
